@@ -121,6 +121,7 @@ namespace MyFirstMVC.Services
                     var errorMessage = errorResponse?.ContainsKey("message") == true
                     ? errorResponse["message"]?.ToString()
                     : $"2FA verification failed with status: {response.StatusCode}";
+                    Console.WriteLine(errorMessage);
                     return new TwoFactorResponse
                     {
                         Success = false

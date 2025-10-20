@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\LEGION SLIM 7\\Desktop\\softworks\\MyFirstMVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AE348260-83A3-4971-9C43-2A2B19288DB1}|MyFirstMVC\\MyFirstMVC.csproj|c:\\users\\legion slim 7\\desktop\\softworks\\myfirstmvc\\myfirstmvc\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{AE348260-83A3-4971-9C43-2A2B19288DB1}|MyFirstMVC\\MyFirstMVC.csproj|solutionrelative:myfirstmvc\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{AE348260-83A3-4971-9C43-2A2B19288DB1}|MyFirstMVC\\MyFirstMVC.csproj|c:\\users\\legion slim 7\\desktop\\softworks\\myfirstmvc\\myfirstmvc\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE348260-83A3-4971-9C43-2A2B19288DB1}|MyFirstMVC\\MyFirstMVC.csproj|solutionrelative:myfirstmvc\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE348260-83A3-4971-9C43-2A2B19288DB1}|MyFirstMVC\\MyFirstMVC.csproj|c:\\users\\legion slim 7\\desktop\\softworks\\myfirstmvc\\myfirstmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE348260-83A3-4971-9C43-2A2B19288DB1}|MyFirstMVC\\MyFirstMVC.csproj|solutionrelative:myfirstmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE348260-83A3-4971-9C43-2A2B19288DB1}|MyFirstMVC\\MyFirstMVC.csproj|c:\\users\\legion slim 7\\desktop\\softworks\\myfirstmvc\\myfirstmvc\\views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE348260-83A3-4971-9C43-2A2B19288DB1}|MyFirstMVC\\MyFirstMVC.csproj|solutionrelative:myfirstmvc\\views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AE348260-83A3-4971-9C43-2A2B19288DB1}|MyFirstMVC\\MyFirstMVC.csproj|c:\\users\\legion slim 7\\desktop\\softworks\\myfirstmvc\\myfirstmvc\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,20 +23,20 @@
       "RelativeMoniker": "D:0:0:{AE348260-83A3-4971-9C43-2A2B19288DB1}|MyFirstMVC\\MyFirstMVC.csproj|solutionrelative:myfirstmvc\\models\\twofactorrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE348260-83A3-4971-9C43-2A2B19288DB1}|MyFirstMVC\\MyFirstMVC.csproj|c:\\users\\legion slim 7\\desktop\\softworks\\myfirstmvc\\myfirstmvc\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE348260-83A3-4971-9C43-2A2B19288DB1}|MyFirstMVC\\MyFirstMVC.csproj|solutionrelative:myfirstmvc\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AE348260-83A3-4971-9C43-2A2B19288DB1}|MyFirstMVC\\MyFirstMVC.csproj|c:\\users\\legion slim 7\\desktop\\softworks\\myfirstmvc\\myfirstmvc\\views\\auth\\twofactor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{AE348260-83A3-4971-9C43-2A2B19288DB1}|MyFirstMVC\\MyFirstMVC.csproj|solutionrelative:myfirstmvc\\views\\auth\\twofactor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE348260-83A3-4971-9C43-2A2B19288DB1}|MyFirstMVC\\MyFirstMVC.csproj|c:\\users\\legion slim 7\\desktop\\softworks\\myfirstmvc\\myfirstmvc\\models\\twofactorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE348260-83A3-4971-9C43-2A2B19288DB1}|MyFirstMVC\\MyFirstMVC.csproj|solutionrelative:myfirstmvc\\models\\twofactorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AE348260-83A3-4971-9C43-2A2B19288DB1}|MyFirstMVC\\MyFirstMVC.csproj|c:\\users\\legion slim 7\\desktop\\softworks\\myfirstmvc\\myfirstmvc\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AE348260-83A3-4971-9C43-2A2B19288DB1}|MyFirstMVC\\MyFirstMVC.csproj|solutionrelative:myfirstmvc\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE348260-83A3-4971-9C43-2A2B19288DB1}|MyFirstMVC\\MyFirstMVC.csproj|c:\\users\\legion slim 7\\desktop\\softworks\\myfirstmvc\\myfirstmvc\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{AE348260-83A3-4971-9C43-2A2B19288DB1}|MyFirstMVC\\MyFirstMVC.csproj|solutionrelative:myfirstmvc\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE348260-83A3-4971-9C43-2A2B19288DB1}|MyFirstMVC\\MyFirstMVC.csproj|c:\\users\\legion slim 7\\desktop\\softworks\\myfirstmvc\\myfirstmvc\\models\\twofactorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE348260-83A3-4971-9C43-2A2B19288DB1}|MyFirstMVC\\MyFirstMVC.csproj|solutionrelative:myfirstmvc\\models\\twofactorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,7 +62,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\LEGION SLIM 7\\Desktop\\softworks\\MyFirstMVC\\MyFirstMVC\\Views\\Home\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "MyFirstMVC\\Views\\Home\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\LEGION SLIM 7\\Desktop\\softworks\\MyFirstMVC\\MyFirstMVC\\Views\\Home\\Dashboard.cshtml",
+              "RelativeToolTip": "MyFirstMVC\\Views\\Home\\Dashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-20T18:34:51.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\LEGION SLIM 7\\Desktop\\softworks\\MyFirstMVC\\MyFirstMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MyFirstMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\LEGION SLIM 7\\Desktop\\softworks\\MyFirstMVC\\MyFirstMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MyFirstMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAswC4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T18:27:54.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": ".gitignore",
               "DocumentMoniker": "C:\\Users\\LEGION SLIM 7\\Desktop\\softworks\\MyFirstMVC\\MyFirstMVC\\.gitignore",
               "RelativeDocumentMoniker": "MyFirstMVC\\.gitignore",
@@ -67,19 +101,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "TwoFactorRequest.cs",
               "DocumentMoniker": "C:\\Users\\LEGION SLIM 7\\Desktop\\softworks\\MyFirstMVC\\MyFirstMVC\\Models\\TwoFactorRequest.cs",
               "RelativeDocumentMoniker": "MyFirstMVC\\Models\\TwoFactorRequest.cs",
               "ToolTip": "C:\\Users\\LEGION SLIM 7\\Desktop\\softworks\\MyFirstMVC\\MyFirstMVC\\Models\\TwoFactorRequest.cs",
               "RelativeToolTip": "MyFirstMVC\\Models\\TwoFactorRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T14:58:31.396Z"
+              "WhenOpened": "2025-10-20T14:58:31.396Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "TwoFactor.cshtml",
               "DocumentMoniker": "C:\\Users\\LEGION SLIM 7\\Desktop\\softworks\\MyFirstMVC\\MyFirstMVC\\Views\\Auth\\TwoFactor.cshtml",
               "RelativeDocumentMoniker": "MyFirstMVC\\Views\\Auth\\TwoFactor.cshtml",
@@ -87,31 +122,34 @@
               "RelativeToolTip": "MyFirstMVC\\Views\\Auth\\TwoFactor.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-20T14:48:31.7Z"
+              "WhenOpened": "2025-10-20T14:48:31.7Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\LEGION SLIM 7\\Desktop\\softworks\\MyFirstMVC\\MyFirstMVC\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "MyFirstMVC\\Controllers\\AuthController.cs",
               "ToolTip": "C:\\Users\\LEGION SLIM 7\\Desktop\\softworks\\MyFirstMVC\\MyFirstMVC\\Controllers\\AuthController.cs",
               "RelativeToolTip": "MyFirstMVC\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGMAAABSAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGgAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T14:46:17.521Z"
+              "WhenOpened": "2025-10-20T14:46:17.521Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "AuthService.cs",
               "DocumentMoniker": "C:\\Users\\LEGION SLIM 7\\Desktop\\softworks\\MyFirstMVC\\MyFirstMVC\\Services\\AuthService.cs",
               "RelativeDocumentMoniker": "MyFirstMVC\\Services\\AuthService.cs",
               "ToolTip": "C:\\Users\\LEGION SLIM 7\\Desktop\\softworks\\MyFirstMVC\\MyFirstMVC\\Services\\AuthService.cs",
               "RelativeToolTip": "MyFirstMVC\\Services\\AuthService.cs",
-              "ViewState": "AgIAAE8AAAAAAAAAAAAmwF8AAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF8AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T14:37:12.737Z"
+              "WhenOpened": "2025-10-20T14:37:12.737Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -123,11 +161,12 @@
               "RelativeToolTip": "MyFirstMVC\\Services\\IAuthService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T14:36:32.226Z"
+              "WhenOpened": "2025-10-20T14:36:32.226Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "TwoFactorResponse.cs",
               "DocumentMoniker": "C:\\Users\\LEGION SLIM 7\\Desktop\\softworks\\MyFirstMVC\\MyFirstMVC\\Models\\TwoFactorResponse.cs",
               "RelativeDocumentMoniker": "MyFirstMVC\\Models\\TwoFactorResponse.cs",

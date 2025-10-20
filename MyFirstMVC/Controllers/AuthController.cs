@@ -76,7 +76,9 @@ namespace MyFirstMVC.Controllers
         [HttpPost]
         public async Task<IActionResult> TwoFactor(TwoFactorRequest model)
         {
-            if(!ModelState.IsValid)
+            Console.WriteLine($"Received OTP Code - Type: {model.OtpCode?.GetType()}, Value: {model.OtpCode}");
+
+            if (!ModelState.IsValid)
             {
                 return View(model);
             }

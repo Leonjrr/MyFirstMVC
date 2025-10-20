@@ -10,7 +10,7 @@ namespace MyFirstMVC.Models
 
         [Required]
         [JsonPropertyName("otpCode")]
-        public int OtpCode { get; set; }
+        public string OtpCode { get; set; }
 
         [JsonPropertyName("isPasswordReset")]
         public bool IsPasswordReset { get; set; } = false; //Default to false for login flow

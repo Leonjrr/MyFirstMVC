@@ -1,0 +1,14 @@
+﻿@{
+    ViewData["Title"] = "Dashboard";
+}
+
+<h2>Welcome to Dashboard</h2>
+
+<div class="alert alert-success">
+    <h4>Login Successful!</h4>
+    <p><strong>Name:</strong> @ViewBag.FirstName @ViewBag.LastName</p>
+    <p><strong>Username:</strong> @ViewBag.Username</p>
+    <p><strong>Role:</strong> @ViewBag.Role</p>
+</div>
+
+<a asp-action="Logout" class="btn btn-danger">Logout</a>
