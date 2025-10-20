@@ -1,0 +1,22 @@
+﻿@model MyFirstMVC.Models.TwoFactorRequest
+
+<h2>Two-Factor Authentication</h2>
+
+@if (!string.IsNullOrEmpty(ViewBag.Message))
+{
+    <div class="alert alert-info">@ViewBag.Message</div>
+}
+
+<form asp-action="TwoFactor" method="post">
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+    <input type="hidden" asp-for="Email" />
+
+    <div class="form-group">
+        <label asp-for="OtpCode" class="control-label">Enter OTP Code</label>
+        <input asp-for="OtpCode" class="form-control" placeholder="Enter the code sent to your email" />
+        <span asp-validation-for="OtpCode" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Verify</button>
+    <a asp-action="Login" class="btn btn-secondary">Back to Login</a>
+</form>
